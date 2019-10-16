@@ -1,5 +1,15 @@
 .column{
   width:300px;
   float:left;
+  padding:5px;
+}
 
+#col1{
+  background-color: PeachPuff;
+}
+#col2{
+  background-color: Plum;
+}
+#col3{
+  background-color: Sienna;
 }
